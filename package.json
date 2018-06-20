@@ -1,0 +1,26 @@
+{
+  "name": "npm-butter-remote",
+  "version": "1.0.0",
+  "description": "Butter Remote is NPM ported from a javascript library that provides an easy way to make an application or whatever you want to control the interface of butter through the json rpc protocol. Credits for Giacomo Cerquone for dev the butter_remote.js library.",
+  "main": "butter_remote.min.js",
+  "scripts": {
+    "test": "butter_remote.ping();"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcsvcn/npm-butter-remote.git"
+  },
+  "keywords": [
+    "Popcorn",
+    "Time",
+    "Remote",
+    "API",
+    "NPM"
+  ],
+  "author": "Giacomo Cerquone for the butter_remote.js.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcsvcn/npm-butter-remote/issues"
+  },
+  "homepage": "https://github.com/lcsvcn/npm-butter-remote#readme"
+}
